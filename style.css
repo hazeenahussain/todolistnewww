@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+  
+}
+.myMargin{
+    margin: 25px;
+    padding: 2%;
+    
+}
+
+.nav1{
+    margin-left: 80%;
+}
+
+.myMarginlogin{
+    margin: 10%;
+    padding: 2%;
+    
+}
+.list{
+    margin-left: 30%;
+}
+.refresh{
+    margin-left: 50%;
+    /* margin-top: -50%; */
+}
+
+ul {
+    list-style-type: none; /* get rid of bullet points on side of list items */
+  }
